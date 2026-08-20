@@ -1,0 +1,4 @@
+Gain_Set,Peak_RPM,Peak_Time_After_Step_s,Overshoot_RPM,Overshoot_vs_Final_Setpoint_pct,Overshoot_vs_20RPM_Step_pct,First_Entry_49_to_51_RPM_s
+"Kp=2.0, Ki=2.0",66.03,0.52,16.03,32.06,80.15,3.16
+"Kp=1.0, Ki=0.5",56.91,0.52,6.91,13.82,34.55,1.05
+"Kp=0.5, Ki=0.5",53.97,0.52,3.97,7.94,19.85,1.05
