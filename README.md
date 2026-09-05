@@ -6,6 +6,12 @@ The project was developed from the ground up, beginning with individual hardware
 
 **Technologies:** ESP32 · Embedded C/C++ · PI Control · Feedforward Control · PWM · Quadrature Encoder · TB6612FNG · I²C · OLED · Experimental Data Analysis
 
+## Final Hardware Setup
+
+![Final ESP32 Closed-Loop DC Motor Controller](Photos/Final_System/final_hardware_setup.jpeg)
+
+The completed breadboard prototype integrates the ESP32, TB6612FNG motor driver, encoder-equipped DC gearmotor, potentiometer setpoint control, and OLED telemetry into a standalone closed-loop speed control system.
+
 ## Key Features
 
 - Closed-loop DC motor speed regulation using an ESP32
